@@ -1,0 +1,3 @@
+- Create a new Java project called Book_Git_Practice
+- Add a package under the source folder called chapter_1
+- Add a text file called page1 and add some text
